@@ -1,0 +1,62 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+  /* background-color: blueviolet; */
+}
+#my_navbar {
+  padding: 15px;
+}
+#nav_logo {
+  color: #e03b8b;
+  font-size: 30px;
+  font-weight: bold;
+}
+#nav_logo:hover {
+  color: #ef5354 !important;
+}
+
+#search_bar {
+  margin-left: 40px;
+  width: 70%;
+}
+#search_bar input {
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+#search_btn {
+  background-color: #23c4ed;
+  background-color: red;
+  color: #000;
+  padding: 10px 20px;
+}
+#search_btn:hover {
+  background-color: #e6425e;
+}
+
+#create_post_btn {
+  background-color: #3944f7;
+  color: #fff;
+  padding: 15px 40px;
+  margin-left: 30px;
+}
+#create_post_btn:hover {
+  background-color: #2827cc;
+}
+#blog_title {
+  color: #e83a59;
+}
+#blog_div {
+  /* background-color: #f7f1e3; */
+}
+#blog_content {
+  color: #bf3325;
+}
+
+#footer_p {
+  text-align: justify;
+}
